@@ -1,17 +1,15 @@
 
 <br>
 
-## Projects
-
-<br>
-
 <img
     src = 'https://raw.githubusercontent.com/LewdTechnologies/.GitHub/main/Resources/Neko.png'
     align = left
     width = 200
 />
 
-*Developed an E621 extension at some point..*
+## Neko
 
-*It still works I guess..*
+A **Chromium** extension that redesignes <br>
+the user interface of **E621** & **E926**.
 
+<br>
