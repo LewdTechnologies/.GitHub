@@ -4,7 +4,7 @@
 [<img
     src = 'https://raw.githubusercontent.com/LewdTechnologies/.GitHub/main/Resources/Neko.png'
     align = left
-    width = 200
+    width = 190
 />][Neko]
 
 ## [Neko]
@@ -16,13 +16,14 @@ the user interface of **E621** & **E926**.
 <br>
 <br>
 <br>
+<br>
 
 [<img
     src = 'https://raw.githubusercontent.com/LewdTechnologies/.GitHub/main/Resources/Nekyo.png'
     align = left
-    width = 200
+    width = 190
 />][Nekyo]
-
+<br>
 ## [Nekyo]
 
 A desktop app for viewing lewd content <br>
